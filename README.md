@@ -10,6 +10,10 @@ For Bayucaraka's Internship Final Project.
 4. Allow debuging on your phone by enabling its developer options
 5. Wait until your phone to be recognized by Android Studio
 6. Click run and wait for the application to install on your phone
+### Alternatively, install the APK file directly on your phone
+1. Download the 'gyroapp-debug.apk' on your phone
+2. Depending on your phone, you have to allow 'Unknown Sources' to install application outside from Google Play Store
+3. Install the APK and ignore whatever warning your phone might throw at you
 
 ## How to use the app
 1. First enter your address and port with whichever host you want to connect to the MAVROS then press the connect button. Make sure the inputted port matches the port in the tcpcommander.cpp file (It's 8888 by default)

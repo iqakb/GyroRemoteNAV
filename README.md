@@ -14,7 +14,7 @@ For Bayucaraka's Internship Final Project.
 ## How to use the app
 1. First enter your address and port with whichever host you want to connect to the MAVROS then press the connect button. Make sure the inputted port matches the port in the tcpcommander.cpp file (It's 8888 by default)
 2. Hold on the clutch and mantain your phone orientation until the quadcopter arms itself
-3. Slide on the clutch to change the quadcopter linear x velocity. Tilt the phone to change the quadcopter linear y velocity. Roll the phone to change the quadcopter linear z velocity. Rotate the phone to change the quadcopter yaw rate.
+3. Slide on the clutch to change the quadcopter linear x velocity. Tilt the phone to change the quadcopter linear z velocity. Roll the phone to change the quadcopter linear y velocity. Rotate the phone to change the quadcopter yaw rate.
 4. Hold on the clutch to maintain the command, or let it go to reset the commands.
 
 ## How to install the ros package

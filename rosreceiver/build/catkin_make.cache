@@ -1,0 +1,2 @@
+gyroreader
+-DCATKIN_DEVEL_PREFIX=/home/iqakb/magang/usbgendeng/rosreceiver/devel -DCMAKE_INSTALL_PREFIX=/home/iqakb/magang/usbgendeng/rosreceiver/install -G Unix Makefiles
